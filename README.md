@@ -1,9 +1,9 @@
 # TodoApplication
 This is a simple Todo Application built using Reactjs,showsasing basic understanding of HTML,CSS,JavaScript,React components,hooks and state management using Redux
 # Features:
-Add tasks
-View tasks
-Delete tasks
+*Add tasks
+*View tasks
+*Delete tasks
 # Getting Started:
 # Prerequisites:
 Make sure you have Node.js and npm (or yarn) installed on your machine.
